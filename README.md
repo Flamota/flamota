@@ -9,3 +9,8 @@ Que tal me acompanhar nessa e saber um pouco mais sobre mim?
 - 📫 Pode me contatar por email (faumotac@hotmail.com) ou pelo LinkdIn (www.linkedin.com/in/flávia-mota-8517922ab)
 - 😄 Pronomes: ela/dela
 
+
+<div  align=center widht=100% >
+ <a href="https://github.com/flamota/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamota&theme=radical&layout=compact&hide_border=true" /></a>
+ <a href="https://github.com/flamota/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=flamota&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Carol's github stats" /></a> 
+</div>
